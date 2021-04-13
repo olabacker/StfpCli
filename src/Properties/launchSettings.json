@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "SftpCli": {
-      "commandName": "Project",
-      "commandLineArgs": "upload 192.168.1.10 foo pass .\\Commands.cs \"/upload/tes2222dds.cs\""
-    }
-  }
-}
